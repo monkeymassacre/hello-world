@@ -1,2 +1,2 @@
 # hello-world
-1
+Меня зовут monkeymassacre и это мой первый опыт использования GitHub :^)
